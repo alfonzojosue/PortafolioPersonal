@@ -8,7 +8,7 @@ function TodoList(props){
                 {props.children}
             </ul>
         </section>
-        <div>hola</div>
+        
     );
 }
 
